@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="background">@color/dark_gray</color>
+    <color name="background_main">@color/dark_gray</color>
+    <color name="text">@color/white</color>
+    <color name="icon">@color/white</color>
+    <color name="button">@color/white</color>
+    <color name="text_search_field">@color/dark_gray</color>
+    <color name="icon_search_field">@color/dark_gray</color>
+    <color name="background_search_field">@color/white</color>
+    <color name="background_track_placeholder">@color/dark_gray</color>
+    <color name="text_track_details">@color/white</color>
+    <color name="text_player_main">@color/white</color>
+    <color name="switch_thumb_color_checked">@color/light_blue</color>
+    <color name="switch_thumb_color_unchecked">@color/text_gray</color>
+    <color name="switch_track_color_checked">@color/medium_gray</color>
+    <color name="switch_track_color_unchecked">@color/light_gray</color>
+    <color name="search_placeholder">@color/white</color>
+    <color name="search_update_button">@color/dark_gray</color>
+</resources>

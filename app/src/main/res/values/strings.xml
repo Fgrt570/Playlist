@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Playlist Maker</string>
+    <string name="media_library_button">Медиатека</string>
+    <string name="search_button">Поиск</string>
+    <string name="settings_button">Настройки</string>
+    <string name="settings_dark_theme_item">Темная тема</string>
+    <string name="settings_share_app_item">Поделиться</string>
+    <string name="settings_support_item">Написать в поддержку</string>
+    <string name="settings_user_agreement_item">Пользовательское соглашение</string>
+    <string name="app_link" translatable="false">Горохов Никита ИВТ-212</string>
+    <string name="app_share_msg">Share Playlist Maker app</string>
+    <string name="email_support_title">Message to the developers of the Playlist Maker app</string>
+    <string name="email_support_msg">Thanks to the developers for a cool app!</string>
+    <string name="email" translatable="false">putin@kremlin.ru</string>
+    <string name="user_agreement_link" translatable="false">Горохов Никита ИВТ-212</string>
+    <string name="search_hint">@string/search_button</string>
+    <string name="ic_clear_description">Icon for clearing search query text</string>
+    <string name="album_cover_description">Album cover</string>
+    <string name="track_selector_description">Action selection button</string>
+    <string name="search_update_result">Update</string>
+    <string name="search_placeholder_not_found">Nothing was found</string>
+    <string name="search_placeholder_network_error">Network problems\n\nDownload failed. Check the Internet connection.</string>
+    <string name="search_history_title">You searched</string>
+    <string name="search_history_clear_button">Clear history</string>
+    <string name="player_track_duration">Track time</string>
+    <string name="player_album_name">Album</string>
+    <string name="player_year_of_track_release">Year</string>
+    <string name="player_music_genre">Genre</string>
+    <string name="player_country_of_performer">Country</string>
+    <string name="track_playlist_button_description">Button to add a track to a playlist</string>
+    <string name="track_favorites_button_description">Button to add a track to favorites</string>
+    <string name="track_play_button_description">Play or pause button</string>
+</resources>
